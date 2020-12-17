@@ -1,0 +1,15 @@
+{
+    "name": "hms",
+    "description": "Hospital Management System",
+    "author": "Team - A",
+    "version": "0.0.1",
+    "main": "./index.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "fs": "0.0.1-security",
+        "mysql": "^2.18.1",
+        "nodeman": "^1.1.2",
+        "package": "^1.0.1"
+    }
+}
